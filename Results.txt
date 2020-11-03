@@ -425,8 +425,8 @@ ACUUU
 ...............................................................UAAAAG
 .................................................................AAAGUAC
 ....................................................................GUACC
- tRNA | Leu | ÊAA | Bos taurus | mitochondrial
-GUUAAGGUKLCAGAGCCCGGDAAUUGCAPAAAACUÊAAACPUUUAUAUC?AGAGAUUCA"AUCCUCUCCUUAACACCA
+ tRNA | Leu | √äAA | Bos taurus | mitochondrial
+GUUAAGGUKLCAGAGCCCGGDAAUUGCAPAAAACU√äAAACPUUUAUAUC?AGAGAUUCA"AUCCUCUCCUUAACACCA
 .UUAAGG
 .....GGUK
 ......GUKL
@@ -442,8 +442,8 @@ GUUAAGGUKLCAGAGCCCGGDAAUUGCAPAAAACUÊAAACPUUUAUAUC?AGAGAUUCA"AUCCUCUCCUUAACACCA
 ..........................CAPA
 ............................PAAA
 .............................AAAACU
-................................ACU�
-....................................�A
+................................ACU√
+....................................äA
 ......................................AACP
 ........................................CPU
 .........................................PUUU
@@ -668,8 +668,8 @@ GUCUUU
 .............................................................PAAG
 .................................................................A?
 ..................................................................?U
- tRNA | Trp | ÊCA | Bos taurus | mitochondrial
-AGGAAUUU"LGUUAAACAGACCAAGAGCCUÊCA*AGCCCUAAG?AAGUACAAUUUACUUAAUUCCUGCCA
+ tRNA | Trp | √äCA | Bos taurus | mitochondrial
+AGGAAUUU"LGUUAAACAGACCAAGAGCCU√äCA*AGCCCUAAG?AAGUACAAUUUACUUAAUUCCUGCCA
 AGGAA
 .GGAAUU
 ...AAUUU"
@@ -685,8 +685,8 @@ AGGAA
 .....................CAAGAG
 ......................AAGAGC
 .........................AGCCU
-...........................CCU�
-...............................�C
+...........................CCU√
+...............................äC
 ................................CA*
 ..................................*AG
 .....................................CCCUA
